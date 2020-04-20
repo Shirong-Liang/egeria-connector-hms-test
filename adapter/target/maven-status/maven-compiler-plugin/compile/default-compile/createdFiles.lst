@@ -1,0 +1,6 @@
+org\odpi\egeria\egeria_connector_hms\repositoryconnector\HMSOMRSMetadataCollection.class
+org\adapter\App.class
+org\odpi\egeria\egeria_connector_hms\repositoryconnector\HMSOMRSRepositoryConnectorProvider.class
+org\odpi\egeria\egeria_connector_hms\repositoryconnector\HMSOMRSRepositoryConnector.class
+org\odpi\egeria\egeria_connector_hms\repositoryconnector\stores\TypeDefStore.class
+org\odpi\egeria\egeria_connector_hms\repositoryconnector\mapping\EntityMapping2OMRS.class
